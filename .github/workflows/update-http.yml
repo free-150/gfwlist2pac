@@ -1,4 +1,4 @@
-name: Auto update
+name: Auto update-http
 
 on:
   schedule:
