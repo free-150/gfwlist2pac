@@ -9,6 +9,7 @@ var rules = [
             "clientservices.googleapis.com",
             "fonts.googleapis.com",
             "gvt1.com",
+            "imasdk.googleapis.com",
             "safebrowsing.googleapis.com",
             "update.googleapis.com"
         ],
@@ -3766,6 +3767,7 @@ var rules = [
             "wallmama.com",
             "wallpapercasa.com",
             "wallsttv.com",
+            "wallzhihu.com",
             "waltermartin.com",
             "waltermartin.org",
             "wan-press.org",
